@@ -5,7 +5,7 @@ sequence from the polyATGC stretches for evolutionary fitnes.
 Given a stretch of homopolymers*2 generate a sequence where
 under the evolutionary fitness if the selection pressure 
 would have acted accordingly without slip strand mutation.
-generateDNABERTToken(fasta_sequences="ATATATATATAT", arg_iter=2)
+mutationSlicer(fasta_sequences="ATATATATATAT", arg_iter=2)
 "AATTAATTAATTAATTAATT"
 generateDNABERTToken(fasta_sequences="ATATATATATAT", arg_iter=3)
 "ATTAATTAATTAATTAAT"
