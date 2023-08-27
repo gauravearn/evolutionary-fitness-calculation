@@ -4,7 +4,7 @@ A data structure approach to generate a random  sequence from the polyATGC stret
 ```
 mutationSlicer(fasta_sequences="ATATATATATAT", arg_iter=2)
 "AATTAATTAATTAATTAATT"
-generateDNABERTToken(fasta_sequences="ATATATATATAT", arg_iter=3)
+mutationSlicer(fasta_sequences="ATATATATATAT", arg_iter=3)
 "ATTAATTAATTAATTAAT"
 ```
 
