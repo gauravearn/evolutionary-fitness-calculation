@@ -7,7 +7,7 @@ mutationSlicer(fasta_sequences="ATATATATATAT", arg_iter=2)
 mutationSlicer(fasta_sequences="ATATATATATAT", arg_iter=3)
 "ATTAATTAATTAATTAAT"
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
